@@ -29,7 +29,7 @@ I think it’s important to love doing what you do, so the passion will continue
 <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
 <a><img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
   <a><img align="left" alt="Erlang" width="30px" src="https://download.logo.wine/logo/Erlang_(programming_language)/Erlang_(programming_language)-Logo.wine.png" /><a/>
-<a><img align="left" alt="Elixir" width="30px" src="https://banner2.cleanpng.com/20180920/fli/kisspng-elixir-functional-programming-programming-language-vanc-5ba3e361b2dde2.1886814715374672337327.jpg" /><a/>
+<a><img align="left" alt="Elixir" width="30px" src="https://images.squarespace-cdn.com/content/v1/5896a205d1758e289948f9b0/1528614013142-LIJHDYXK47AKG7G4OAYJ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ElixirIcon.png?format=1000w" /><a/>
 <a><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><a/>
 <a><img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /><a/>
 <a><img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><a/>
