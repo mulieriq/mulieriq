@@ -9,8 +9,8 @@
 </p>
 
 -----------------------------------------------------------
-I'm Eric Muli a software engineer based in Kenya.Currently I am the Co-Organizer for <a href="https://twitter.com/KenyaFlutterDev/">Flutter Developers Kenya</a>  and Facebook Developers Circles , University
-Of Nairobi Chapter.Flutter is my main development tool for making both iOS and Android applications.I am also experienced in fron-end and backend web development.
+I'm Eric Muli a software engineer based in Kenya.Currently I am the Co-Organizer for <a href="https://twitter.com/KenyaFlutterDev/">Flutter Developers Kenya</a>  and <a href="https://twitter.com/DevcUon">Facebook Developers Circles , University
+Of Nairobi Chapter</a>.Flutter is my main development tool for making both iOS and Android applications.I am also experienced in fron-end and backend web development.
 I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest  technologies,both for mobile and web. 
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
