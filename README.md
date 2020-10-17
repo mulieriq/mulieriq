@@ -1,14 +1,3 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 
 <h1 align="center">  Hi, I'm Eric Muli</h1>
 
