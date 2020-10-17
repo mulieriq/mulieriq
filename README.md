@@ -24,12 +24,12 @@ I think it’s important to love doing what you do, so the passion will continue
 -------------------------------------------------------------
 
 ## Languages
-<a><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><a/>
-<a><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><a/>
-<a><img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><a/>
+
 <a><img align="left" alt="Kotlin" width="30px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" /><a/>
 <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
 <a><img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
+  <a><img align="left" alt="Erlang" width="30px" src="https://download.logo.wine/logo/Erlang_(programming_language)/Erlang_(programming_language)-Logo.wine.png" /><a/>
+<a><img align="left" alt="Elixir" width="30px" src="https://banner2.cleanpng.com/20180920/fli/kisspng-elixir-functional-programming-programming-language-vanc-5ba3e361b2dde2.1886814715374672337327.jpg" /><a/>
 <a><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><a/>
 <a><img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /><a/>
 <a><img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><a/>
@@ -44,18 +44,23 @@ I think it’s important to love doing what you do, so the passion will continue
 
 <br />
 <br />
+<br/>
 
 ## Package Manager
 
 <a><img align="left" alt="Npm" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
+  <a><img align="left" alt="Composer" width="40px" src="https://getcomposer.org/img/logo-composer-transparent4.png" /><a/>
 
 <br />
 <br />
 
 ## Tools
 <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Atom" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /><a/>
-  <a><img align="left" alt="Sublime-Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" /><a/>
+<a><img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" /><a/>
+<a><img align="left" alt="Webstorm" width="30px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" /><a/>
+<a><img align="left" alt="PhpStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhpStorm_Logo.svg/1200px-PhpStorm_Logo.svg.png" /><a/>
+<a><img align="left" alt="IntelliJ Idea" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /><a/>
+
 
 <br />
 <br />
