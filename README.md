@@ -19,7 +19,6 @@ I think it’s important to love doing what you do, so the passion will continue
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning ... Vue and Laravel
-- 👯 I’m looking to collaborate on any open source mobile or web /backend projects
 - 💬 Ask me anything about Flutter
 
 -------------------------------------------------------------
