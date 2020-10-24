@@ -15,8 +15,6 @@ I'm very passionate about technologies, I spend much of my spare time learning a
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
-## I'm a Mobile And Web  Developer
-
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning ... Vue and Laravel
 - 💬 Ask me anything about Flutter
