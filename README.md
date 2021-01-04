@@ -58,6 +58,10 @@ I think it’s important to love doing what you do, so the passion will continue
 <br />
 <br />
 
+<a href="https://github.com/EricRootLee">
+<img align="center" alt="Eric's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EricRootLee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+
 ## Version Control
 <a><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><a/>
 <a><img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a/>
