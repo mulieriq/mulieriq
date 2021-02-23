@@ -53,7 +53,7 @@ I think it’s important to love doing what you do, so the passion will continue
 <a><img align="left" alt="Webstorm" width="30px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" /><a/>
 <a><img align="left" alt="PhpStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhpStorm_Logo.svg/1200px-PhpStorm_Logo.svg.png" /><a/>
 <a><img align="left" alt="IntelliJ Idea" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /><a/>
-  <a><img align="left" alt="GoLand" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FThRimRi_jetbrains-goland-logo-hd-png-download%2F&psig=AOvVaw0XgLPLln5PtIe1I4gJjinD&ust=1614184479462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjEm4G4gO8CFQAAAAAdAAAAABAD" /><a/>
+  <a><img align="left" alt="GoLand" width="30px" src="https://www.kindpng.com/picc/m/591-5918404_jetbrains-goland-logo-hd-png-download.png" /><a/>
 
 
 <br />
