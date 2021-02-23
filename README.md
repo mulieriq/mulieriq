@@ -16,7 +16,7 @@ I think it’s important to love doing what you do, so the passion will continue
 
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning ... Elixir,Vue and Laravel
+- 🌱 I’m currently learning ... Elixir,Go and Laravel
 - 💬 Ask me anything about Flutter
 
 -------------------------------------------------------------
