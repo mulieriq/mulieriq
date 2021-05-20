@@ -68,7 +68,3 @@ I think it’s important to love doing what you do, so the passion will continue
 
  <br />
 
-<p align="left"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/EricRootLee/count.svg" />
-</p>
