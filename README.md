@@ -16,7 +16,7 @@ I think it’s important to love doing what you do, so the passion will continue
 
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning ... Elixir,Go and Laravel
+- 🌱 I’m currently learning ... Kotlin and Golang
 - 💬 Ask me anything about Flutter
 
 -------------------------------------------------------------
@@ -49,10 +49,9 @@ I think it’s important to love doing what you do, so the passion will continue
 
 ## Tools
 <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" /><a/>
+
 <a><img align="left" alt="Webstorm" width="30px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" /><a/>
-<a><img align="left" alt="PhpStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PhpStorm_Logo.svg/1200px-PhpStorm_Logo.svg.png" /><a/>
-<a><img align="left" alt="IntelliJ Idea" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" /><a/>
+
   <a><img align="left" alt="GoLand" width="30px" src="https://www.kindpng.com/picc/m/591-5918404_jetbrains-goland-logo-hd-png-download.png" /><a/>
 
 
