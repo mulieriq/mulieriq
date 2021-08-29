@@ -21,6 +21,22 @@ I think it’s important to love doing what you do, so the passion will continue
 
 -------------------------------------------------------------
 
+
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricRootLee&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRootLee&langs_count=10&layout=compact"/></td>
+  </tr>   
+</table>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=EricRootLee&layout=compact"/></td>
+  </tr>
+</table>
+
+
+
 ## Languages
 
 <a><img align="left" alt="Kotlin" width="30px" src="https://mk0sigezamu77feo2fi6.kinstacdn.com/wp-content/uploads/2017/07/logo_500x500.png" /><a/>
