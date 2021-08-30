@@ -26,7 +26,7 @@ I think it’s important to love doing what you do, so the passion will continue
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricRootLee&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRootLee&langs_count=10&layout=compact"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRootLee&langs_count=8&layout=compact"/></td>
   </tr>   
 </table>
 <table>
