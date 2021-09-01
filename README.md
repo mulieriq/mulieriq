@@ -31,7 +31,7 @@ I think it’s important to love doing what you do, so the passion will continue
 </table>
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muli_eriq&layout=compact&theme=tokyonight"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=muli_eriq&count_private=true&show_icons=true&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
