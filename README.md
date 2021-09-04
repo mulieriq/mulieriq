@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="http://mulieric.skylabstech.co.ke/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/eric-muli-005695173/">Linkedin</a> - 
+  <a href="https://www.linkedin.com/in/ericmuli/">Linkedin</a> - 
   <a href="https://twitter.com/muli_eriq">Twitter</a>
 </p>
 
