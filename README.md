@@ -27,7 +27,22 @@ I think it’s important to love doing what you do, so the passion will continue
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricRootLee&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRootLee&langs_count=8&layout=compact&theme=tokyonight"/></td>
+    
+    
+
+    
+
+    
   </tr>   
+  
+   
+   <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EricRootLee&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  
+  </tr>
+  
+       
+  
 </table>
 
 
