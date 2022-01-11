@@ -9,7 +9,7 @@
 </p>
 
 -----------------------------------------------------------
-I'm Eric Muli a software developer based in Kenya.Currently I am the Co-Organizer for <a href="https://twitter.com/KenyaFlutterDev/">Flutter Developers Kenya</a>  and <a href="https://twitter.com/DevcUon">Facebook Developers Circles , University
+I'm Eric Muli a software developer based in Kenya.Currently I am the Co-Organizer for <a href="https://twitter.com/KenyaFlutterDev/">Flutter Developers Kenya</a>  , <a href="https://twitter.com/DevcUon">Facebook Developers Circles and University
 Of Nairobi Chapter</a>.
 
 I spend most of my time building mobile(Flutter & Kotlin) and server-side applications (Golang, Node.js & partly Laravel).
