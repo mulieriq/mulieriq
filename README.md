@@ -27,8 +27,8 @@ I spend most of my time building mobile(Flutter & Kotlin) and server-side applic
 ### :octocat: My stats
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricRootLee&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EricRootLee&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=mulieriq&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mulieriq&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
     
     
 
